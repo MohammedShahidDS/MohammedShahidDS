@@ -3,7 +3,7 @@
 
 <p align="center">
   Turning complex data into actionable business insights 🚀<br/>
-  <strong>3+ years @ Accenture</strong> · Microsoft Certified PL-300 · Databricks Certified Data Engineer · Chennai, India 🇮🇳
+  <strong>3.5+ years @ Accenture</strong> · Microsoft Certified PL-300 · Databricks Certified Data Engineer · Chennai, India 🇮🇳
 </p>
 
 <p align="center">
